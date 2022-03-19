@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PONG" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PONG" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PONG" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="SFML/include" />
+		</Compiler>
+		<Linker>
+			<Add library="sfml-graphics" />
+			<Add library="sfml-window" />
+			<Add library="sfml-system" />
+			<Add directory="SFML/lib" />
+		</Linker>
+		<Unit filename="MAIN.cpp" />
+		<Unit filename="include/BackGround.h" />
+		<Unit filename="include/Ball.h" />
+		<Unit filename="include/EntranceMenuStyle.h" />
+		<Unit filename="include/FilesFuntions.h" />
+		<Unit filename="include/Gameplay.h" />
+		<Unit filename="include/GameplayStyle.h" />
+		<Unit filename="include/MainFunctions.h" />
+		<Unit filename="include/Menu.h" />
+		<Unit filename="include/NameEnteringStyles.h" />
+		<Unit filename="include/Random.h" />
+		<Unit filename="include/Rectangle.h" />
+		<Unit filename="include/RectangleBOT.h" />
+		<Unit filename="include/RectanglePlayer2.h" />
+		<Unit filename="include/ScoreFuntions.h" />
+		<Unit filename="include/TextBox.h" />
+		<Unit filename="include/Top3Styles.h" />
+		<Unit filename="include/User.h" />
+		<Unit filename="src/BackGround.cpp" />
+		<Unit filename="src/Ball.cpp" />
+		<Unit filename="src/EntranceMenuStyle.cpp" />
+		<Unit filename="src/FilesFuntions.cpp" />
+		<Unit filename="src/Gameplay.cpp" />
+		<Unit filename="src/GameplayStyle.cpp" />
+		<Unit filename="src/MainFunctions.cpp" />
+		<Unit filename="src/Menu.cpp" />
+		<Unit filename="src/NameEnteringStyles.cpp" />
+		<Unit filename="src/Random.cpp" />
+		<Unit filename="src/Rectangle.cpp" />
+		<Unit filename="src/RectangleBOT.cpp" />
+		<Unit filename="src/RectanglePlayer2.cpp" />
+		<Unit filename="src/ScoreFuntions.cpp" />
+		<Unit filename="src/TextBox.cpp" />
+		<Unit filename="src/Top3Styles.cpp" />
+		<Unit filename="src/User.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

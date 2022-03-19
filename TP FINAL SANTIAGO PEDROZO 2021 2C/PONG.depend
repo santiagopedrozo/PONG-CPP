@@ -1,0 +1,1970 @@
+# depslib dependency file v1.0
+1637210051 source:c:\users\santi\desktop\pong\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Gameplay.h"
+	"User.h"
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/VertexBuffer.hpp>
+	<SFML/Graphics/View.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Clipboard.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1539635488 c:\users\santi\desktop\pong\sfml\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1539635488 c:\users\santi\desktop\pong\sfml\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\utf.inl
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\string.inl
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\thread.inl
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\threadlocalptr.inl
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\vector2.inl
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\system\vector3.inl
+
+1539635488 c:\users\santi\desktop\pong\sfml\include\sfml\window\clipboard.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\contextsettings.hpp
+	<SFML/Config.hpp>
+
+1539635488 c:\users\santi\desktop\pong\sfml\include\sfml\window\cursor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\window.hpp
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\window\windowstyle.hpp
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\rect.inl
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\primitivetype.hpp
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Window/ContextSettings.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\glsl.hpp
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Glsl.inl>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\glsl.inl
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pong\sfml\include\sfml\graphics\vertexbuffer.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1637202034 c:\users\santi\desktop\pong\include\gameplay.h
+	<SFML/Graphics.hpp>
+	"Ball.h"
+	"Rectangle.h"
+	"RectangleBOT.h"
+	"User.h"
+
+1636749551 c:\users\santi\desktop\pong\include\ball.h
+	<SFML/Graphics.hpp>
+
+1637187078 source:c:\users\santi\desktop\pong\src\ball.cpp
+	"Ball.h"
+	<iostream>
+
+1637205589 source:c:\users\santi\desktop\pong\src\gameplay.cpp
+	"Gameplay.h"
+	<string.h>
+
+1636229764 c:\users\santi\desktop\pong\include\rectangle.h
+	<SFML/Graphics.hpp>
+
+1636174953 source:c:\users\santi\desktop\pong\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1637104872 source:c:\users\santi\desktop\pong\src\rectanglebot.cpp
+	"RectangleBOT.h"
+
+1636753164 c:\users\santi\desktop\pong\include\rectanglebot.h
+	<SFML/Graphics.hpp>
+	"Rectangle.h"
+	"Ball.h"
+	<iostream>
+
+1636228646 source:c:\users\santi\desktop\pong\funciones.cpp
+
+1636229861 c:\users\santi\desktop\pong\funciones.h
+	<stdlib.h>
+	<ctime>
+
+1637211025 source:c:\users\santi\desktop\pong\src\user.cpp
+	"User.h"
+
+1637211079 c:\users\santi\desktop\pong\include\user.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1638985001 source:c:\users\santi\desktop\laboratorio 2\pong\src\ball.cpp
+	"Ball.h"
+	<iostream>
+
+1638984972 c:\users\santi\desktop\laboratorio 2\pong\include\ball.h
+	<SFML/Graphics.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/VertexBuffer.hpp>
+	<SFML/Graphics/View.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Clipboard.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1539635488 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1539635488 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\utf.inl
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\string.inl
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\thread.inl
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\threadlocalptr.inl
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\vector2.inl
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\system\vector3.inl
+
+1539635488 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\clipboard.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\contextsettings.hpp
+	<SFML/Config.hpp>
+
+1539635488 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\cursor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\window.hpp
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\window\windowstyle.hpp
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\rect.inl
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\primitivetype.hpp
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Window/ContextSettings.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\glsl.hpp
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Glsl.inl>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\glsl.inl
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1525812018 c:\users\santi\desktop\laboratorio 2\pong\sfml\include\sfml\graphics\vertexbuffer.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1638936931 source:c:\users\santi\desktop\laboratorio 2\pong\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1638927398 c:\users\santi\desktop\laboratorio 2\pong\include\rectangle.h
+	<SFML/Graphics.hpp>
+
+1638938645 source:c:\users\santi\desktop\laboratorio 2\pong\src\rectanglebot.cpp
+	"RectangleBOT.h"
+
+1638938666 c:\users\santi\desktop\laboratorio 2\pong\include\rectanglebot.h
+	<SFML/Graphics.hpp>
+	"Rectangle.h"
+	"Ball.h"
+	<iostream>
+
+1639005489 source:c:\users\santi\desktop\laboratorio 2\pong\src\user.cpp
+	"User.h"
+
+1639005088 c:\users\santi\desktop\laboratorio 2\pong\include\user.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1639008754 source:c:\users\santi\desktop\laboratorio 2\pong\src\gameplay.cpp
+	"Gameplay.h"
+	<string.h>
+
+1639008754 c:\users\santi\desktop\laboratorio 2\pong\include\gameplay.h
+	<SFML/Graphics.hpp>
+	"Ball.h"
+	"Rectangle.h"
+	"RectangleBOT.h"
+	"RectanglePlayer2.h"
+	"User.h"
+
+1639094847 source:c:\users\santi\desktop\laboratorio 2\pong\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Gameplay.h"
+	"TextBox.h"
+	"Menu.h"
+	"User.h"
+
+1638923507 c:\users\santi\desktop\laboratorio 2\pong\include\rectangleplayer2.h
+	<SFML/Graphics.hpp>
+	"Rectangle.h"
+	<iostream>
+
+1638993734 source:c:\users\santi\desktop\laboratorio 2\pong\src\rectangleplayer2.cpp
+	"RectanglePlayer2.h"
+
+1639009005 c:\users\santi\desktop\laboratorio 2\pong\include\textbox.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<string>
+
+1639009083 source:c:\users\santi\desktop\laboratorio 2\pong\src\textbox.cpp
+	"TextBox.h"
+
+1639094810 source:c:\users\santi\desktop\laboratorio 2\pong\src\menu.cpp
+	"Menu.h"
+
+1639094810 c:\users\santi\desktop\laboratorio 2\pong\include\menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1639375103 source:c:\users\santi\desktop\pongg\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Funtions.h"
+	"Gameplay.h"
+	"TextBox.h"
+	"Menu.h"
+	"User.h"
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/VertexBuffer.hpp>
+	<SFML/Graphics/View.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Clipboard.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1539635488 c:\users\santi\desktop\pongg\sfml\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1539635488 c:\users\santi\desktop\pongg\sfml\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\utf.inl
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\string.inl
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\thread.inl
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\threadlocalptr.inl
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\vector2.inl
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\system\vector3.inl
+
+1539635488 c:\users\santi\desktop\pongg\sfml\include\sfml\window\clipboard.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\contextsettings.hpp
+	<SFML/Config.hpp>
+
+1539635488 c:\users\santi\desktop\pongg\sfml\include\sfml\window\cursor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\window.hpp
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\window\windowstyle.hpp
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\rect.inl
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\primitivetype.hpp
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Window/ContextSettings.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\glsl.hpp
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Glsl.inl>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\glsl.inl
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pongg\sfml\include\sfml\graphics\vertexbuffer.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1639374029 c:\users\santi\desktop\pongg\include\gameplay.h
+	<SFML/Graphics.hpp>
+	"Ball.h"
+	"Rectangle.h"
+	"RectangleBOT.h"
+	"RectanglePlayer2.h"
+	"User.h"
+
+1638984972 c:\users\santi\desktop\pongg\include\ball.h
+	<SFML/Graphics.hpp>
+
+1638927398 c:\users\santi\desktop\pongg\include\rectangle.h
+	<SFML/Graphics.hpp>
+
+1638938666 c:\users\santi\desktop\pongg\include\rectanglebot.h
+	<SFML/Graphics.hpp>
+	"Rectangle.h"
+	"Ball.h"
+	<iostream>
+
+1638923507 c:\users\santi\desktop\pongg\include\rectangleplayer2.h
+	<SFML/Graphics.hpp>
+	"Rectangle.h"
+	<iostream>
+
+1639375324 c:\users\santi\desktop\pongg\include\user.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1639374250 c:\users\santi\desktop\pongg\include\textbox.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<string.h>
+
+1639111238 c:\users\santi\desktop\pongg\include\menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1638985001 source:c:\users\santi\desktop\pongg\src\ball.cpp
+	"Ball.h"
+	<iostream>
+
+1639375324 source:c:\users\santi\desktop\pongg\src\gameplay.cpp
+	"Gameplay.h"
+	<string.h>
+
+1639174495 source:c:\users\santi\desktop\pongg\src\menu.cpp
+	"Menu.h"
+
+1638936931 source:c:\users\santi\desktop\pongg\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1639113861 source:c:\users\santi\desktop\pongg\src\rectanglebot.cpp
+	"RectangleBOT.h"
+
+1638993734 source:c:\users\santi\desktop\pongg\src\rectangleplayer2.cpp
+	"RectanglePlayer2.h"
+
+1639374452 source:c:\users\santi\desktop\pongg\src\textbox.cpp
+	"TextBox.h"
+
+1639375324 source:c:\users\santi\desktop\pongg\src\user.cpp
+	"User.h"
+	<string.h>
+
+1639113339 source:c:\users\santi\desktop\pongg\src\funtions.cpp
+	"Funtions.h"
+
+1639113768 c:\users\santi\desktop\pongg\include\funtions.h
+	<time.h>
+	<cstdlib>
+
+1639594560 source:c:\users\santi\desktop\pongg - codigo\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"Random.h"
+	"Gameplay.h"
+	"TextBox.h"
+	"Menu.h"
+	"User.h"
+	"FilesFuntions.h"
+	"ScoreFuntions.h"
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/VertexBuffer.hpp>
+	<SFML/Graphics/View.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Clipboard.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1539635488 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1539635488 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\utf.inl
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\string.inl
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\thread.inl
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\threadlocalptr.inl
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\vector2.inl
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\system\vector3.inl
+
+1539635488 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\clipboard.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\contextsettings.hpp
+	<SFML/Config.hpp>
+
+1539635488 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\cursor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\window.hpp
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\window\windowstyle.hpp
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\rect.inl
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\primitivetype.hpp
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Window/ContextSettings.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\glsl.hpp
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Glsl.inl>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\glsl.inl
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1525812018 c:\users\santi\desktop\pongg - codigo\sfml\include\sfml\graphics\vertexbuffer.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1639113768 c:\users\santi\desktop\pongg - codigo\include\funtions.h
+	<time.h>
+	<cstdlib>
+
+1639627594 c:\users\santi\desktop\pongg - codigo\include\gameplay.h
+	<SFML/Graphics.hpp>
+	"Ball.h"
+	"Rectangle.h"
+	"RectangleBOT.h"
+	"RectanglePlayer2.h"
+	"User.h"
+
+1639613573 c:\users\santi\desktop\pongg - codigo\include\ball.h
+	<SFML/Graphics.hpp>
+
+1639601332 c:\users\santi\desktop\pongg - codigo\include\rectangle.h
+	<SFML/Graphics.hpp>
+
+1639602599 c:\users\santi\desktop\pongg - codigo\include\rectanglebot.h
+	<SFML/Graphics.hpp>
+	"Rectangle.h"
+	"Ball.h"
+	<iostream>
+
+1639600329 c:\users\santi\desktop\pongg - codigo\include\rectangleplayer2.h
+	<SFML/Graphics.hpp>
+	"Rectangle.h"
+	<iostream>
+
+1639614270 c:\users\santi\desktop\pongg - codigo\include\user.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1639617970 c:\users\santi\desktop\pongg - codigo\include\textbox.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<string.h>
+
+1639615710 c:\users\santi\desktop\pongg - codigo\include\menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1639625816 source:c:\users\santi\desktop\pongg - codigo\src\ball.cpp
+	"Ball.h"
+	<iostream>
+
+1639615399 source:c:\users\santi\desktop\pongg - codigo\src\menu.cpp
+	"Menu.h"
+
+1639627044 source:c:\users\santi\desktop\pongg - codigo\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1639626078 source:c:\users\santi\desktop\pongg - codigo\src\rectanglebot.cpp
+	"RectangleBOT.h"
+	"Random.h"
+
+1639626082 source:c:\users\santi\desktop\pongg - codigo\src\rectangleplayer2.cpp
+	"RectanglePlayer2.h"
+
+1639622125 source:c:\users\santi\desktop\pongg - codigo\src\textbox.cpp
+	"TextBox.h"
+
+1639614272 source:c:\users\santi\desktop\pongg - codigo\src\user.cpp
+	"User.h"
+	<string.h>
+
+1639627594 source:c:\users\santi\desktop\pongg - codigo\src\gameplay.cpp
+	"Gameplay.h"
+	<string.h>
+	"FilesFuntions.h"
+	"ScoreFuntions.h"
+	"Random.h"
+
+1639516624 c:\users\santi\desktop\pongg - codigo\filesfuntions.h
+	"User.h"
+
+1639614273 source:c:\users\santi\desktop\pongg - codigo\src\filesfuntions.cpp
+	"FilesFuntions.h"
+	"ScoreFuntions.h"
+
+1639614273 c:\users\santi\desktop\pongg - codigo\include\filesfuntions.h
+	"User.h"
+
+1639517169 c:\users\santi\desktop\pongg - codigo\include\scorefuntions.h
+	"User.h"
+	"FilesFuntions.h"
+
+1639629997 source:c:\users\santi\desktop\pongg - codigo\src\scorefuntions.cpp
+	"ScoreFuntions.h"
+	<bits/stdc++.h>
+
+1639546589 c:\users\santi\desktop\pongg - codigo\include\random.h
+
+1639546614 source:c:\users\santi\desktop\pongg - codigo\src\random.cpp
+	"Random.h"
+	<cstdlib>
+	<ctime>
+
